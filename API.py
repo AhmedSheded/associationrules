@@ -55,4 +55,4 @@ def get_user_and_chosen_recommendations():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
